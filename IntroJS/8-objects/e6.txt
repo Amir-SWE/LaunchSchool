@@ -1,0 +1,8 @@
+prim
+prim
+obj
+prim
+neither
+obj
+prim
+obj

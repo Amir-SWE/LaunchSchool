@@ -1,0 +1,31 @@
+E1 ------
+false
+true
+3
+3
+false
+true
+false
+false
+false
+true
+false
+true
+
+
+E9 -----
+false
+true
+3
+false
+3
+3
+undefined
+null
+
+
+E10 -----
+foo is 5, bar is 7
+foo is 0, bar is 0
+foo is 4, bar is 42
+foo is 3, bar is 42
